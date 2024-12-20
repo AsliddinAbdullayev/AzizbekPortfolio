@@ -1,0 +1,234 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+nav {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    height: 100px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+button {
+    background-color: darkcyan;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 2px solid darkcyan;
+    border-radius: 20px;
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+.uyim{
+    font-size: 22px;
+    cursor: pointer;
+}
+.q{
+    cursor: pointer;
+}
+
+.as:hover{
+    transition: 0.9s;
+    transform: scale(1.3);
+}
+.as2:hover{
+    transition: 0.9s;
+    transform: scale(1.3);
+}
+.as3:hover{
+    transition: 0.9s;
+    transform: scale(1.2);
+}
+
+footer{
+    margin-left: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+
+.ahref{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-decoration-line: none;
+}
+
+.q:hover{
+    transition: 0.9s;
+    transform: scale(1.3);
+}
+.uyim:hover{
+    transition: 0.9s;
+    transform: scale(1.2);
+}
+
+.buttom {
+    display: flex;
+    margin-left: 425px;
+    align-items: center;
+    gap: 25px;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    transition: 0.9s;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+h2:hover {
+    color: darkcyan;
+}
+
+h2 {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.az {
+    background-color: darkcyan;
+}
+
+.mers {
+    color: white;
+    cursor: pointer;
+    font-family: "Archivo Black", sans-serif;
+}
+
+.t {
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.t:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.bobo2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1240px;
+    margin-inline: auto;
+    padding-inline: 20px;
+}
+ 
+img {
+    display: flex;
+    display: block;
+}
+
+.ah {
+    width: 420px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 300px;
+
+}
+
+.avaz {
+    background-color: white;
+    color: darkcyan;
+    transition: 0.9s;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.e {
+    background-color: white;
+    color: darkcyan;
+    border: 2px solid darkcyan;
+    transition: 0.5s;
+
+}
+
+.e:hover {
+    background-color: transparent;
+    color: white;
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+.ahmad {
+    text-align: center;
+}
+
+.card {
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    border-radius: 15px;
+    color: black;
+    margin-left: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.d {
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.s {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.ada {
+    background-color: white;
+    width: 100%;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+
+.but {
+    background-color: darkcyan;
+    color: white;
+    margin-left: 700px;
+}
+
+.but:hover {
+    background-color: white;
+    color: black;
+}
+
+.aa {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    padding-bottom: 117px;
+}
+.pd{
+    color: white;
+    font-size: 17px;
+}
+.mers{
+    font-size: 40px;
+}
+.azik{
+    text-decoration-line: none;
+}
